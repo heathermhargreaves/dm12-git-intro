@@ -1,4 +1,4 @@
-var journal = ["So much fun!", "Reddit is great too for learning"];
+var journal = ["So much fun!", "Reddit is great too for learning", "Hope I can use the Twilio API after this"];
 
 journal.push("Wow");
 
